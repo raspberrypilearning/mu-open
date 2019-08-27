@@ -7,7 +7,7 @@ Open Mu from your application menu.
 --- /task ---
 
 --- task ---
-You can then choose the mode you want to use. Choose **Python** if you are creating a new Python script.
+You can then choose the mode you want to use. Choose **Python 3** if you are creating a new Python script.
 
 ![mu-python](images/mu-python.png)
 --- /task ---
