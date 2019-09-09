@@ -1,4 +1,4 @@
-## Opening Mu
+## How to open Mu
 
 + Go to the **Programming** menu and click on Mu.
 
